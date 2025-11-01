@@ -11,6 +11,9 @@ The processor supports essential MIPS instructions and simulates realistic pipel
 - `Testbench/` — includes simulation files for verifying pipeline behavior
 
 
+
+
+
 ---
 
 ### ⚙️ Features
