@@ -1,4 +1,3 @@
-# Pipelined MIPS Processor
 
 ### Overview  
 This project implements a **pipelined MIPS processor** using **VHDL**, designed to improve instruction throughput by executing multiple stages of the instruction cycle in parallel.  
@@ -39,5 +38,5 @@ The processor supports essential MIPS instructions and simulates realistic pipel
 ```bash
 # Compile and simulate (example)
 vcom *.vhd
-vsim pipeline_tb
+vsim MIPSProcessor_tb.vhd
 
